@@ -1,0 +1,19 @@
+/* interior_consultant_project | styles.css |  MIT LICENSE */
+
+html{
+	background-color:#181719;
+	color: white;
+	border-radius: 15px;
+}
+
+.top-nav{
+	width: 90px;
+    padding: 3px;
+	border: 2px solid #FFFFFF;
+	font-family: 'Crimson Pro', serif;
+    font-style: normal;
+    font-weight: 200;
+	font-size: 14px;
+	line-height: 16px;
+	text-transform: uppercase
+}
