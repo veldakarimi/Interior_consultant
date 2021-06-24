@@ -1,2 +1,3 @@
 # Interior_consultant
-Demo page for Interior consultant 
+A simple demo page for an interior consultancy studio.
+
